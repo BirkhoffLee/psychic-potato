@@ -1,2 +1,2 @@
 # psychic-potato
-Didn't I say nothing here? F-off.
+Generated using https://github.com/R0uter/gfw_domain_whitelist
